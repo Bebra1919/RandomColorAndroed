@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GeoQuizGordienko</string>
+    <string name="question_australia">Сколько бит памяти занимает примитивный тип данных int?</string>
+    <string name="question_oceans">Наименьшая единица измерения информации?</string>
+    <string name="question_mideast">Чем характеризуется переменная?</string>
+    <string name="question_africa">Чем заканчивается программа?</string>
+    <string name="true_btn">TRUE</string>
+    <string name="false_btn">FALSE</string>
+    <string name="next_btn"><![CDATA[>NEXT]]></string>
+    <string name="generate">Generate</string>
+    <string name="ffffff">#FFFFFF</string>
+</resources>
